@@ -1,0 +1,100 @@
+{
+  "interests": [
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/HTML.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/css-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JAVA SCRIPT",
+      "image": {
+        "src": "../../images/javascript-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JQUERY",
+      "image": {
+        "src": "../../images/jquery-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "BootStrap",
+      "image": {
+        "src": "../../images/Bootstrap-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JAVA",
+      "image": {
+        "src": "../../images/java-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C++",
+      "image": {
+        "src": "../../images/C++logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React JS",
+      "image": {
+        "src": "../../images/react-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "UI/UX Design",
+      "image": {
+        "src": "../../images/UIUx-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "My Sql",
+      "image": {
+        "src": "../../images/sql-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Oracal",
+      "image": {
+        "src": "../../images/Oracle-Logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "WEB API",
+      "image": {
+        "src": "../../images/Api-logo.jpg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MVC",
+      "image": {
+        "src": "../../images/MVClogo.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
